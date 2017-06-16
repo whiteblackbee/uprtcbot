@@ -11,4 +11,4 @@ cd uprtcbot
 
 npm install
 
-node test/index.js
+node example/api.test.js
